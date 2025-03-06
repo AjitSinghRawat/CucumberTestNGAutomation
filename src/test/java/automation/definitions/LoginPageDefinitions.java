@@ -40,13 +40,7 @@ public class LoginPageDefinitions {
     @Then("user should be able to see a message {string} below password field")
     public void user_should_be_able_to_see_a_message_below_password_field(String string) {
         loginPageObject.getMisingPasswordError();
-        // This is the commentS
     }
-
-    public void test(){
-
-    }
-
 
 
 }

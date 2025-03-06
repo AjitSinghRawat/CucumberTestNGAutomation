@@ -41,8 +41,5 @@ public class LoginPageDefinitions {
     public void user_should_be_able_to_see_a_message_below_password_field(String string) {
         loginPageObject.getMisingPasswordError();
     }
-    public void test(){
-
-    }
 
 }

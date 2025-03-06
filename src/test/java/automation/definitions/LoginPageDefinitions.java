@@ -43,7 +43,7 @@ public class LoginPageDefinitions {
     }
 
     public void test(){
-
+            // This is for test trigger
     }
 
 }

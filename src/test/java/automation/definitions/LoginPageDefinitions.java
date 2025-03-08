@@ -43,7 +43,7 @@ public class LoginPageDefinitions {
     }
 
     public void test(){
-            // Finally it started running
+
     }
 
 }

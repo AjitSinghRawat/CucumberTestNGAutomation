@@ -42,6 +42,11 @@ public class LoginPageDefinitions {
         loginPageObject.getMisingPasswordError();
     }
 
+    public void test(){
+
+
+    }
+
 
 
 

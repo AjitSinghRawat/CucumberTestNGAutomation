@@ -1,0 +1,20 @@
+pipeline{
+    agent any
+    stages{
+        stage('One'){
+            step{
+                echo('Hi welcome to pipeline')
+            }
+        }
+        stage('Two'){
+            step{
+                echo('Sample testing for stage 2')
+            }
+        }
+        stage('Three'){
+            step{
+                echo('Thanks for using pipleine')
+            }
+        }
+    }
+}

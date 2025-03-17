@@ -2,17 +2,17 @@ pipeline{
     agent any
     stages{
         stage('One'){
-            step{
+            steps{
                 echo('Hi welcome to pipeline')
             }
         }
         stage('Two'){
-            step{
+            steps{
                 echo('Sample testing for stage 2')
             }
         }
         stage('Three'){
-            step{
+            steps{
                 echo('Thanks for using pipleine')
             }
         }

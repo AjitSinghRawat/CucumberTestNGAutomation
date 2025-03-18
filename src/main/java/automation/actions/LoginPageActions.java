@@ -33,6 +33,9 @@ public class LoginPageActions {
         loginPageLocators.password.sendKeys(password);
         loginPageLocators.submit.click();
     }
+    public void test(){
+
+    }
 
 
 
